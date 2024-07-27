@@ -63,6 +63,8 @@ button{
 .input-group .error{
     color: red;
     font-size: smaller;
+    position:relative;
+    bottom:12px;
 }
 .input-group.success input{
     border-color:green ;
